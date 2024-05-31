@@ -272,5 +272,13 @@
 {"mgvCode":"rvr", "offCode":"rvr", "numCards":487},
 {"mgvCode":"mkm", "offCode":"mkm", "numCards":460},
 {"mgvCode":"mkc", "offCode":"mkc", "numCards":389},
-{"mgvCode":"clu", "offCode":"clu", "numCards":294}
+{"mgvCode":"clu", "offCode":"clu", "numCards":294},
+{"mgvCode":"pip", "offCode":"pip", "numCards":1090},
+{"mgvCode":"otj", "offCode":"otj", "numCards":394},
+{"mgvCode":"otp", "offCode":"otp", "numCards":85},
+{"mgvCode":"otc", "offCode":"otc", "numCards":383},
+{"mgvCode":"big", "offCode":"big", "numCards":102},
+{"mgvCode":"mh3", "offCode":"mh3", "numCards":516},
+{"mgvCode":"hrv", "offCode":"h2r", "numCards":16},
+
 ]
