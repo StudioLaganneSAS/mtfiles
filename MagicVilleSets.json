@@ -279,6 +279,9 @@
 {"mgvCode":"otc", "offCode":"otc", "numCards":383},
 {"mgvCode":"big", "offCode":"big", "numCards":102},
 {"mgvCode":"mh3", "offCode":"mh3", "numCards":516},
+{"mgvCode":"m3c", "offCode":"m3c", "numCards":438},
 {"mgvCode":"hrv", "offCode":"h2r", "numCards":16},
-
+{"mgvCode":"acr", "offCode":"acr", "numCards":315},
+{"mgvCode":"blb", "offCode":"blb", "numCards":427},
+{"mgvCode":"blc", "offCode":"blc", "numCards":396}
 ]
