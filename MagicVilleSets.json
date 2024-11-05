@@ -283,5 +283,10 @@
 {"mgvCode":"hrv", "offCode":"h2r", "numCards":16},
 {"mgvCode":"acr", "offCode":"acr", "numCards":315},
 {"mgvCode":"blb", "offCode":"blb", "numCards":427},
-{"mgvCode":"blc", "offCode":"blc", "numCards":396}
+{"mgvCode":"blc", "offCode":"blc", "numCards":396},
+{"mgvCode":"dsk", "offCode":"dsk", "numCards":435},
+{"mgvCode":"dsc", "offCode":"dsc", "numCards":396},
+{"mgvCode":"fdn", "offCode":"fdn", "numCards":729},
+{"mgvCode":"fdc", "offCode":"fdc", "numCards":3},
+{"mgvCode":"j25", "offCode":"j25", "numCards":826}
 ]
